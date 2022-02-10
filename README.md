@@ -1,17 +1,38 @@
 # Chess-system
 
 ## Checklist **Position**: 
-* Class Position
+* **Class**
+    - Boardgame.Position
+    
 * **OOP**
-    * Encapsulation
-    * Constructors
-
+    - Encapsulation
+    - Constructors
 
 ## Checklist **Board and Piece**:
-* Class Board 
-* Class Piece
+* **Class**
+    - Boardgame.Board
+    - Boardgame.Piece 
+
 * **OOP**
-    * Associations
-    * Encapsulation
+    - Associations
+    - Encapsulation
+
 * **Data Structures**
-    * Matrix
+    - Matrix
+    
+## Checklist **Chess layer and print board**
+* **Enum Color** - Package Chess
+
+* **Class** 
+    - Chess.ChessPiece
+    - Chess.ChessMatch
+
+* **OOP**
+    - Enumerations
+    - Encapsulation
+    - Downcasting
+    - Inheritance
+    - Layers pattern
+
+* **Data Structures**
+    - Matrix

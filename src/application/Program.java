@@ -2,6 +2,7 @@ package application;
 
 import boardgame.Board;
 import boardgame.Position;
+import chess.ChessMatch;
 
 public class Program {
 
@@ -12,6 +13,10 @@ public class Program {
 		
 		
 		Board board = new Board(12,12);
+		
+		ChessMatch chessMatch = new ChessMatch();
+		
+		UserInterface.printBoard(chessMatch.getPieces());
 	}
 
 }
