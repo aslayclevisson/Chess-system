@@ -3,7 +3,7 @@
 ## Checklist **Position**: 
 * **Class**
     - Boardgame.Position
-    
+
 * **OOP**
     - Encapsulation
     - Constructors
@@ -36,3 +36,18 @@
 
 * **Data Structures**
     - Matrix
+
+## Checklist **Placing pieces on the board**
+
+* **Class**
+    - Rook
+    - King
+    - Queen
+    - Horse
+    - Pawn
+    - Bishop
+
+* **OOP**
+    - Inheritance
+    - Overriding
+    - Polymorphism(ToString)
