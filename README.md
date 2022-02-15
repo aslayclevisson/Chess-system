@@ -51,3 +51,12 @@
     - Inheritance
     - Overriding
     - Polymorphism(ToString)
+
+## Checklist **Placing pieces on the board**
+* Implement defensive programming in Board methods
+* **Class**
+    - BoardException
+
+* **OOP**
+    - Exceptions
+    - Constructors(exception)
